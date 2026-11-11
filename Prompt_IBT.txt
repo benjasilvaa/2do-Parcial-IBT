@@ -1,0 +1,133 @@
+Quiero que elabores un **resumen extremadamente completo, detallado, riguroso y bien organizado** del material que te adjunto, correspondiente a una clase teórica de mi materia universitaria Introducción a la Biotecnología.
+
+El objetivo es obtener un material de estudio de nivel universitario que me permita comprender los contenidos en profundidad y preparar evaluaciones parciales sin tener que volver constantemente al documento original.
+
+## 1. Criterio principal: respetar la profundidad de la clase
+
+Analizá cuidadosamente todo el material antes de comenzar a resumirlo. Identificá los temas, conceptos y procesos a los que el docente dedica mayor tiempo y explicación.
+
+**La extensión y profundidad de cada apartado deben ser proporcionales a la importancia y al desarrollo que reciben en la clase original.**
+
+- Si un tema se menciona brevemente, explicalo de manera concisa, sin omitir información relevante.
+- Si un tema se desarrolla extensamente, elaborá una explicación profunda que incluya los detalles, fundamentos, ejemplos, mecanismos, aplicaciones y relaciones conceptuales que aparezcan en el material.
+- Prestá especial atención a las explicaciones en las que el docente desarrolla el funcionamiento de una técnica, el fundamento de un procedimiento, las etapas de un proceso biotecnológico o la relación entre distintos conceptos.
+- No reduzcas los temas complejos a unas pocas oraciones por intentar hacer el resumen más corto.
+- No distribuyas la extensión de manera uniforme entre todos los temas.
+- Conservá los detalles que permitan entender por qué una técnica funciona, para qué se utiliza, cuáles son sus limitaciones y qué resultados permite obtener, siempre que estos aspectos se desarrollen en la clase.
+
+## 2. Adaptación específica a Introducción a la Biotecnología
+
+Tené en cuenta que se trata de una materia universitaria introductoria. Necesito comprender los fundamentos de cada tema, pero con suficiente profundidad como para poder responder preguntas conceptuales y de aplicación en un parcial.
+
+Cuando corresponda según el contenido del material, prestá especial atención a:
+
+- **Conceptos y fundamentos:** definiciones precisas, principios biológicos, químicos y tecnológicos involucrados.
+- **Organismos y sistemas biológicos:** microorganismos, células, tejidos, enzimas, proteínas, ácidos nucleicos y otros componentes que se mencionen.
+- **Técnicas y procedimientos:** fundamento, objetivo, materiales o componentes relevantes, etapas, funcionamiento, resultados e interpretación.
+- **Biología molecular y genética:** ADN, ARN, genes, expresión génica, enzimas y manipulación del material genético, si aparecen en la clase.
+- **Aplicaciones biotecnológicas:** producción de sustancias, diagnóstico, investigación, industria, salud, agricultura, alimentos, ambiente y otros campos tratados en el material.
+- **Relaciones entre ciencia y tecnología:** cómo se utilizan los conocimientos biológicos para desarrollar procesos, productos o soluciones.
+- **Ventajas, limitaciones y comparaciones:** diferencias entre técnicas, métodos, organismos o enfoques cuando se analicen en la clase.
+- **Interpretación de resultados:** qué información se obtiene mediante una técnica, qué conclusiones permite extraer y cuáles serían sus limitaciones.
+
+Estos puntos son orientativos: desarrollá únicamente los que correspondan al contenido real del documento. No agregues temas por el solo hecho de que pertenezcan a la biotecnología.
+
+## 3. Profundidad de las explicaciones
+
+No quiero una lista de definiciones ni una enumeración superficial de los temas. Quiero entender cómo se relacionan y por qué funcionan.
+
+Para cada concepto importante, desarrollá, cuando corresponda:
+
+1. **Qué es:** definición clara y precisa.
+2. **Para qué sirve:** objetivo y utilidad dentro del contexto de la clase.
+3. **Cómo funciona:** explicación ordenada del proceso o mecanismo.
+4. **Cuál es su fundamento:** principios biológicos, químicos o tecnológicos que explican su funcionamiento.
+5. **Qué componentes intervienen:** moléculas, células, organismos, enzimas, reactivos, equipos o herramientas relevantes.
+6. **Qué resultados produce:** qué se obtiene, qué se observa y cómo se interpreta.
+7. **Cómo se relaciona con otros conceptos:** conexiones con los demás temas de la materia.
+8. **Qué limitaciones presenta:** errores posibles, condiciones necesarias, restricciones o desventajas, si se mencionan.
+
+No conviertas obligatoriamente cada tema en una lista de ocho puntos. Integrá estos aspectos en una explicación coherente y natural.
+
+Si el docente explica una técnica paso a paso, conservá la secuencia y explicá el propósito de cada etapa. Si compara dos métodos, desarrollá sus diferencias, semejanzas, ventajas y limitaciones relevantes.
+
+## 4. Fidelidad al material original
+
+Utilizá el documento adjunto como fuente principal y respetá el contenido de la clase.
+
+- No omitas definiciones, clasificaciones, ejemplos, procedimientos ni aclaraciones importantes.
+- Conservá los nombres de las técnicas, moléculas, organismos, enzimas, estructuras y conceptos específicos.
+- Mantené los ejemplos que utilice el docente, porque pueden ayudar a comprender los conceptos y ser relevantes para las evaluaciones.
+- Respetá las relaciones de causa y efecto y las explicaciones que justifican cada proceso.
+- No inventes explicaciones, datos, ejemplos ni afirmaciones y no atribuyas al docente contenidos que no estén presentes en el material.
+- Si necesitás incorporar información externa para aclarar un concepto, señalala expresamente como **aclaración complementaria** y diferenciála del contenido original.
+- Si detectás una afirmación científicamente dudosa o posiblemente incorrecta, indicá la incertidumbre y explicá qué habría que verificar, en lugar de corregir silenciosamente el contenido.
+
+## 5. Instrucciones especiales para posibles errores de transcripción automática
+
+El documento puede provenir de una transcripción automática de un video de YouTube. Por lo tanto, es posible que contenga errores de reconocimiento de voz, palabras incompletas, puntuación incorrecta, términos técnicos mal escritos, nombres de moléculas confundidos o frases que no tengan sentido por una transcripción defectuosa.
+
+**Antes de elaborar el resumen, revisá cuidadosamente el texto e identificá los posibles errores de transcripción.**
+
+Para resolverlos, seguí estas reglas:
+
+- Utilizá el contexto de la oración, el tema que se está explicando y los conocimientos científicos establecidos para detectar posibles errores.
+- Si una palabra parece incorrecta, pero el contexto permite identificar con mucha seguridad el término científico correspondiente, podés normalizarla en el resumen.
+- Prestá especial atención a nombres de enzimas, proteínas, genes, organismos, técnicas de laboratorio, reactivos, abreviaturas y términos científicos que puedan haberse transcripto incorrectamente.
+- Si una expresión parece contradictoria o carece de sentido, comprobá si puede deberse a una palabra mal reconocida, una omisión o un problema de puntuación.
+- Si hay varias interpretaciones posibles, no elijas una arbitrariamente. Indicá que el fragmento es ambiguo y explicá brevemente qué interpretaciones serían posibles.
+- Si no podés recuperar con seguridad lo que se dijo, marcá el fragmento como **[Transcripción dudosa: verificar con el video original]**.
+- No inventes las palabras que supuestamente dijo el docente ni presentes una reconstrucción incierta como si fuera un hecho confirmado.
+- Cuando el error potencial afecte un concepto importante, incluí una breve nota indicando cuál es el problema y qué información permitiría resolverlo.
+
+Si tenés acceso al video original, al audio o a otra fuente que contenga la explicación, utilizala para verificar los fragmentos dudosos. Si solo disponés del texto, no afirmes haber escuchado o verificado el video.
+
+**Importante:** diferenciá entre errores evidentes de transcripción y conceptos que simplemente sean difíciles de comprender. No modifiques un término técnico solo porque resulte poco familiar.
+
+## 6. Organización del resumen
+
+Organizá el resultado con títulos y subtítulos jerárquicos, siguiendo en lo posible el orden de la clase.
+
+- Utilizá párrafos completos para desarrollar las explicaciones.
+- Usá listas numeradas para procedimientos, etapas o secuencias.
+- Incorporá tablas comparativas cuando permitan distinguir métodos, técnicas, organismos o conceptos.
+- Utilizá esquemas con flechas para representar procesos, relaciones o secuencias cuando ayuden a comprenderlos.
+- Destacá en negrita las definiciones fundamentales, los términos técnicos y las relaciones que conviene recordar.
+- Explicá los términos técnicos la primera vez que aparezcan, cuando sea necesario.
+- Evitá que el resumen se convierta en una sucesión interminable de viñetas: priorizá la explicación desarrollada.
+- No repitas una misma explicación en diferentes apartados, salvo que sea necesario para comprender una relación importante.
+
+## 7. Nivel de detalle y utilidad para el parcial
+
+Quiero un material de estudio que me permita responder preguntas de definición, explicación, comparación, fundamentación y aplicación.
+
+Por eso:
+
+- Desarrollá los conceptos de forma que pueda explicarlos con mis propias palabras.
+- Explicá por qué ocurren los procesos y no solamente qué ocurre.
+- Conservá los detalles que permitan distinguir conceptos similares.
+- Incluí los fundamentos de las técnicas y la interpretación de sus resultados cuando estén presentes en la clase.
+- Explicá las conexiones entre los distintos temas, en lugar de tratarlos como contenidos aislados.
+- No reduzcas el contenido a una guía de memorización ni agregues preguntas de examen que sustituyan al resumen.
+
+No asumas que un detalle es irrelevante simplemente porque parece secundario. Evaluá su importancia dentro de la explicación completa del docente.
+
+## 8. Revisión final de integridad
+
+Antes de entregar el resultado, contrastá el resumen con todo el material disponible y comprobá que:
+
+- Todos los temas relevantes estén incluidos.
+- Los apartados más desarrollados en la clase también sean los más desarrollados en el resumen.
+- No falten etapas de procedimientos, fundamentos, ejemplos ni relaciones importantes.
+- Los nombres científicos y términos técnicos sean coherentes.
+- Los posibles errores de transcripción se hayan corregido con fundamento o se hayan señalado explícitamente.
+- Las aclaraciones complementarias estén diferenciadas del contenido original.
+- El resumen tenga una estructura clara y permita estudiar sin depender constantemente del documento de origen.
+
+Si el material es demasiado extenso para procesarlo o responderlo en una sola entrega, dividí el trabajo en partes consecutivas. Indicá qué sección estás desarrollando y continuá desde el punto exacto donde terminaste, sin resumir de manera excesiva las secciones pendientes ni omitir contenido para terminar antes.
+
+## Resultado esperado
+
+Un resumen universitario completo, riguroso, detallado y comprensible de Introducción a la Biotecnología, fiel a la clase original, con especial énfasis en los temas explicados con mayor profundidad, los fundamentos de las técnicas, las relaciones entre conceptos y las aplicaciones biotecnológicas.
+
+La prioridad es la **comprensión profunda y la integridad del contenido**, no la brevedad.
